@@ -1,0 +1,15 @@
+{
+  "name": "6.1-mvc-and-unit-testing",
+  "version": "1.0.0",
+  "description": "MVC walkthrough",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
