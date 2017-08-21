@@ -5,7 +5,7 @@
 # MVC Architecture
 
 * MVC Video: https://youtu.be/lEBm6gSF4RU
-* Testing Video: 
+* Testing Video: https://youtu.be/1aq1AMX2L-Q
 * Demo Notes: https://github.com/tiy-greenville-july-2017/6.1-mvc-and-testing
 
 Trygve Reenskaug introduced MVC into Smalltalk-76 while visiting the Xerox Palo Alto Research Center (PARC) in the 1970s. And a later version of Smalltalk 80 also included MVC in it's class library. Smalltalk 80's MVC structure is generally what I hear people talk about as the starting point of MVC.
